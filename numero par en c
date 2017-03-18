@@ -1,5 +1,0 @@
-Dado un arreglo de N números (Donde N tiene que ser mayor igual a 1000), buscar el numero Par mas grande, siguiendo las siguientes reglas.
-- Debe exponerse cuantas veces es divisible
-- El siguiente número a él debe ser impar.
-- La suma del número anterior y posterior, deben de dar el numero que se encuentra posicionado.
-- El resultado de la division entre 2 del numero par analizado deberá ser igual al número siguiente siguiente en el arreglo.
